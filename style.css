@@ -12,6 +12,14 @@ body{
     /* color: lightgray; */
 }
 
+.mobile-menu{
+    display: none;
+}
+
+#close-btn{
+    display: none;
+}
+
 ul{
     display: flex;
     align-items: center;
